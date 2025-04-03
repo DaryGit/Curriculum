@@ -1,6 +1,6 @@
 Hi! I'm Dary Miguel Peguero Baez
 Full Stack Developer
-Developer with over 3 years of experience in system design and automation using HTML, Css, Angular, react, mongoDB, MySql server, SQL server and JavaScript, I can offer great results, functional systems at a considerably reduced cost. Specialized in web design, troubleshooting, analysis, backend and frontend, my English level is intermediate B1.  
+Developer with over 3 years of experience in system design and automation using HTML, Css, Angular, react, mongoDB, MySql server, SQL server and JavaScript, I can offer great results, functional systems at a considerably reduced cost. Specialized in web design, troubleshooting, analysis, backend and frontend, my English level is intermediate B1..  
 
 🚀 Skills
 Backend Development:
