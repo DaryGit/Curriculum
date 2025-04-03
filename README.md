@@ -54,7 +54,7 @@ Developer with over 3 years of experience in system design and automation using 
 - English (Intermediate)
   
 # 📬 Contact
-Email: darymipeguero@gmail.com
-Phone: +1 908 422 5460
-Location: Kingston, Pennsylvania, 18704
-LinkedIn: https://www.linkedin.com/in/dary-miguel-peguero-b%C3%A1ez-51b23222b/
+- Email: darymipeguero@gmail.com
+- Phone: +1 908 422 5460
+- Location: Kingston, Pennsylvania, 18704
+- LinkedIn: https://www.linkedin.com/in/dary-miguel-peguero-b%C3%A1ez-51b23222b/
